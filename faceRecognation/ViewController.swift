@@ -4,7 +4,6 @@ import AVFoundation
 import Vision
 
 // https://tech.recruit-mp.co.jp/mobile/ios-11-vision-framework/ 参考
-
 extension CGImagePropertyOrientation {
     init(_ orientation: UIImage.Orientation) {
         switch orientation {
